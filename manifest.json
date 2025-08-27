@@ -1,6 +1,6 @@
 {
-  "name": "copanel Booklet inlibarary",
-  "short_name": "copanel Booklet inlibarary",
+  "name": "copanel.Booklet.inlibarary",
+  "short_name": "copanel.Booklet.inlibarary",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#f5f5f5",
@@ -18,3 +18,4 @@
     }
   ]
 }
+
